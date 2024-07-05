@@ -1,0 +1,45 @@
+body{
+    background: url(https://th.bing.com/th/id/OIP.6kgsWIaIG-QiZY7Qr3u0NAAAAA?w=307&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7);
+    max-width:700px;
+    margin: 30px auto;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    margin: 40px auto 50px auto;
+    
+}
+
+.menu{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: crimson;
+    height: 550px;
+    width: 350px;
+    display: flex;
+    font-weight: bold;
+    
+}
+
+.names{
+    margin: 5px 50px;
+    width:200px;
+    text-align: start;
+    font-family: Apple Chancery, cursive;
+}
+
+.price{
+    margin: 5px 50px 5px 20px;
+    width: 100px;
+    text-align: center;
+    font-family: Apple Chancery, cursive;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: gold;
+    font-family: "Lucida Handwriting", cursive;
+}
